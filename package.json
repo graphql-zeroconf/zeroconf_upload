@@ -1,0 +1,6 @@
+{
+  "name": "zeroconf_upload",
+  "version": "0.0.1",
+  "description": "zeroconf upload",
+  "main": "index.js"
+}
